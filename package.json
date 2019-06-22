@@ -1,0 +1,24 @@
+{
+  "name": "format-date",
+  "version": "1.0.0",
+  "description": "JS Unity Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha ./*.test.js",
+    "start": "mocha --watch ./*.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MattStarakiewicz/format-date.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MattStarakiewicz/format-date/issues"
+  },
+  "homepage": "https://github.com/MattStarakiewicz/format-date#readme",
+  "devDependencies": {
+    "mocha": "^6.1.4"
+  }
+}
