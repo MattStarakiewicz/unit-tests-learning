@@ -8,5 +8,5 @@ The function consists of two other functions and accepts the following variables
 - gateFactor (starting gate)
 
 # The package contains 12 unit tests
-To display test enter: npm run test
-To display test in watch mode enter: npm start
+- To display test enter: npm run test
+- To display test in watch mode enter: npm start
