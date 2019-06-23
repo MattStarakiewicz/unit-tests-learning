@@ -1,8 +1,6 @@
-# unit-tests-learning
-
 # A function that calculates the total jumper's note.
 
-# the function consists of two other functions and accepts the following variables:
+The function consists of two other functions and accepts the following variables:
 - distance
 - hillSize (hill size - e.g. normal, big)
 - styleNotes (notes for style)
